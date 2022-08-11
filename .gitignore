@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+wandb/*
+model_save/*
+rss_reslut/*
